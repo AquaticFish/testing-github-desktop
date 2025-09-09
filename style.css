@@ -1,0 +1,30 @@
+/* Padding = Inside space */
+/* Margin = Outside space */
+h1{
+    color: plum;
+    background-color: lavender;
+    padding: 10px; /* TRouBLe */
+    /* OR Padding-left: 10px; */ 
+ 
+    margin:20px; /* With two numbers we get TB LR */ 
+    /*m argin-left: 0; */
+    /* OR margin 0px 10px 0px 5px */  
+ }
+ 
+ /* This is an ID for single tag */
+ #highlight{
+ color: purple;
+ }
+ 
+ /* This a CLASS used for mulit uses*/
+ .veg{
+ color: pink;
+ }
+ 
+ /* This is an ID for DIV tag */
+ #middle{
+ padding: 0px 20px 0px 20px;
+ background-color: azure;
+ width:80%;
+ margin: 0 auto;
+ }
